@@ -295,39 +295,6 @@
       }
     },
     {
-      "name": "JSX Component Names",
-      "scope": [
-        "support.class.component.jsx",
-        "support.class.component.tsx",
-        "entity.name.tag.tsx",
-        "entity.name.tag.jsx"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "JSX/HTML Element Tags",
-      "scope": [
-        "entity.name.tag.html",
-        "entity.name.tag"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "JSX Props & HTML Attributes",
-      "scope": [
-        "entity.other.attribute-name.jsx",
-        "entity.other.attribute-name.tsx",
-        "entity.other.attribute-name"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
       "name": "Function Calls",
       "scope": [
         "entity.name.function",
@@ -548,203 +515,6 @@
       }
     },
     {
-      "name": "HTML Tags",
-      "scope": [
-        "entity.name.tag",
-        "meta.tag punctuation.definition.tag"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "HTML Tag Brackets",
-      "scope": [
-        "punctuation.definition.tag",
-        "punctuation.definition.tag.begin",
-        "punctuation.definition.tag.end"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "HTML Attributes",
-      "scope": [
-        "entity.other.attribute-name",
-        "meta.tag.attributes entity.other.attribute-name"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "HTML Attribute Values",
-      "scope": [
-        "string.quoted.double.html",
-        "string.quoted.single.html",
-        "meta.attribute-with-value.html string"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "HTML DOCTYPE",
-      "scope": [
-        "meta.tag.sgml.doctype",
-        "entity.name.tag.doctype"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "HTML ID Attributes",
-      "scope": [
-        "entity.other.attribute-name.id",
-        "entity.other.attribute-name.id.html"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "HTML Class Attributes",
-      "scope": [
-        "entity.other.attribute-name.class",
-        "entity.other.attribute-name.class.html"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Selectors",
-      "scope": [
-        "entity.name.selector",
-        "meta.selector"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS ID Selectors",
-      "scope": [
-        "entity.other.attribute-name.id.css",
-        "meta.selector entity.other.attribute-name.id"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Class Selectors",
-      "scope": [
-        "entity.other.attribute-name.class.css",
-        "meta.selector entity.other.attribute-name.class"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Pseudo-classes & Pseudo-elements",
-      "scope": [
-        "entity.other.attribute-name.pseudo-class",
-        "entity.other.attribute-name.pseudo-element"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Properties",
-      "scope": [
-        "support.type.vendored.property-name",
-        "support.type.property-name.css",
-        "meta.property-name"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Values",
-      "scope": [
-        "support.constant.property-value",
-        "meta.property-value"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Units",
-      "scope": [
-        "keyword.other.unit"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Colors",
-      "scope": [
-        "constant.other.color.rgb-value.hex.css",
-        "constant.other.color"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Variables",
-      "scope": [
-        "variable.css",
-        "variable.argument.css",
-        "variable.other.less",
-        "variable.scss",
-        "variable.sass"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS At-rules",
-      "scope": [
-        "keyword.control.at-rule",
-        "meta.at-rule keyword.control"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
-      "name": "CSS Important",
-      "scope": [
-        "keyword.other.important.css"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0",
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "SCSS Mixins & Includes",
-      "scope": [
-        "entity.name.function.scss",
-        "support.function.misc.scss",
-        "keyword.control.at-rule.include.scss",
-        "keyword.control.at-rule.mixin.scss"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
-      }
-    },
-    {
       "name": "JS/TS Arrow Functions",
       "scope": [
         "storage.type.function.arrow"
@@ -808,18 +578,6 @@
       ],
       "settings": {
         "foreground": "#F0A050"
-      }
-    },
-    {
-      "name": "JSX / TSX — React Components",
-      "scope": [
-        "support.class.component.jsx",
-        "support.class.component.tsx",
-        "support.class.component.js",
-        "support.class.component.ts"
-      ],
-      "settings": {
-        "foreground": "#C0C0C0"
       }
     },
     {
@@ -1278,6 +1036,219 @@
       ],
       "settings": {
         "foreground": "#E06050"
+      }
+    },
+    {
+      "name": "JSX Component Names",
+      "scope": [
+        "support.class.component.jsx",
+        "support.class.component.tsx",
+        "support.class.component.js",
+        "support.class.component.ts"
+      ],
+      "settings": {
+        "foreground": "#58C7FF",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSX/HTML Element Tags",
+      "scope": [
+        "entity.name.tag.html",
+        "entity.name.tag",
+        "entity.name.tag.tsx",
+        "entity.name.tag.jsx"
+      ],
+      "settings": {
+        "foreground": "#7AA2FF"
+      }
+    },
+    {
+      "name": "JSX/HTML Tag Brackets",
+      "scope": [
+        "punctuation.definition.tag",
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end",
+        "meta.tag punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#82C7FF"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": [
+        "entity.other.attribute-name",
+        "meta.tag.attributes entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#8FEFAF"
+      }
+    },
+    {
+      "name": "HTML Attribute Values",
+      "scope": [
+        "string.quoted.double.html",
+        "string.quoted.single.html",
+        "meta.attribute-with-value.html string"
+      ],
+      "settings": {
+        "foreground": "#F5C14B"
+      }
+    },
+    {
+      "name": "HTML DOCTYPE",
+      "scope": [
+        "meta.tag.sgml.doctype",
+        "entity.name.tag.doctype"
+      ],
+      "settings": {
+        "foreground": "#8899CC"
+      }
+    },
+    {
+      "name": "HTML ID Attributes",
+      "scope": [
+        "entity.other.attribute-name.id",
+        "entity.other.attribute-name.id.html"
+      ],
+      "settings": {
+        "foreground": "#F0C070"
+      }
+    },
+    {
+      "name": "HTML Class Attributes",
+      "scope": [
+        "entity.other.attribute-name.class",
+        "entity.other.attribute-name.class.html"
+      ],
+      "settings": {
+        "foreground": "#92D6FF"
+      }
+    },
+    {
+      "name": "CSS Selectors",
+      "scope": [
+        "entity.name.selector",
+        "meta.selector"
+      ],
+      "settings": {
+        "foreground": "#A9F0B3"
+      }
+    },
+    {
+      "name": "CSS ID Selectors",
+      "scope": [
+        "entity.other.attribute-name.id.css",
+        "meta.selector entity.other.attribute-name.id"
+      ],
+      "settings": {
+        "foreground": "#F0C070"
+      }
+    },
+    {
+      "name": "CSS Class Selectors",
+      "scope": [
+        "entity.other.attribute-name.class.css",
+        "meta.selector entity.other.attribute-name.class"
+      ],
+      "settings": {
+        "foreground": "#92D6FF"
+      }
+    },
+    {
+      "name": "CSS Pseudo-classes & Pseudo-elements",
+      "scope": [
+        "entity.other.attribute-name.pseudo-class",
+        "entity.other.attribute-name.pseudo-element"
+      ],
+      "settings": {
+        "foreground": "#FF91C4"
+      }
+    },
+    {
+      "name": "CSS Properties",
+      "scope": [
+        "support.type.vendored.property-name",
+        "support.type.property-name.css",
+        "meta.property-name"
+      ],
+      "settings": {
+        "foreground": "#8FDEFF"
+      }
+    },
+    {
+      "name": "CSS Values",
+      "scope": [
+        "support.constant.property-value",
+        "meta.property-value"
+      ],
+      "settings": {
+        "foreground": "#F7C68A"
+      }
+    },
+    {
+      "name": "CSS Units",
+      "scope": [
+        "keyword.other.unit"
+      ],
+      "settings": {
+        "foreground": "#A9F0B3"
+      }
+    },
+    {
+      "name": "CSS Colors",
+      "scope": [
+        "constant.other.color.rgb-value.hex.css",
+        "constant.other.color"
+      ],
+      "settings": {
+        "foreground": "#FFE380"
+      }
+    },
+    {
+      "name": "CSS Variables",
+      "scope": [
+        "variable.css",
+        "variable.argument.css",
+        "variable.other.less",
+        "variable.scss",
+        "variable.sass"
+      ],
+      "settings": {
+        "foreground": "#C89CFF"
+      }
+    },
+    {
+      "name": "CSS At-rules",
+      "scope": [
+        "keyword.control.at-rule",
+        "meta.at-rule keyword.control"
+      ],
+      "settings": {
+        "foreground": "#FF8EC6"
+      }
+    },
+    {
+      "name": "CSS Important",
+      "scope": [
+        "keyword.other.important.css"
+      ],
+      "settings": {
+        "foreground": "#FF7A7A",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "SCSS Mixins & Includes",
+      "scope": [
+        "entity.name.function.scss",
+        "support.function.misc.scss",
+        "keyword.control.at-rule.include.scss",
+        "keyword.control.at-rule.mixin.scss"
+      ],
+      "settings": {
+        "foreground": "#7EF0A6"
       }
     }
   ]
