@@ -7,6 +7,7 @@ A collection of pure black VS Code themes with visible borders and 8 carefully c
 | Theme | Background | Style |
 |---|---|---|
 | **Black Bordered** | `#000000` | The original — clean borders, balanced syntax |
+| **Black Borderless** | `#000000` | Original Black Bordered styling with no visible UI borders |
 | **Black Bordered Lite** | `#141414` | Softer background, slightly warmer feel |
 | **Black Bordered High Contrast** | `#000000` | Stronger borders, brighter syntax for maximum readability |
 | **Black Bordered Warm** | `#0A0805` | Warm tint with amber/gold/peach syntax |

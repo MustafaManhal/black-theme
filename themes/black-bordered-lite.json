@@ -303,7 +303,7 @@
         "entity.name.tag.jsx"
       ],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -313,7 +313,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -324,7 +324,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -370,7 +370,7 @@
       }
     },
     {
-      "name": "Template Literal \u2014 Interpolation Braces",
+      "name": "Template Literal — Interpolation Braces",
       "scope": [
         "punctuation.definition.template-expression.begin",
         "punctuation.definition.template-expression.end"
@@ -554,7 +554,7 @@
         "meta.tag punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#FF5555"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -565,7 +565,7 @@
         "punctuation.definition.tag.end"
       ],
       "settings": {
-        "foreground": "#FF79C6"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -575,7 +575,7 @@
         "meta.tag.attributes entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#50FA7B"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -586,7 +586,7 @@
         "meta.attribute-with-value.html string"
       ],
       "settings": {
-        "foreground": "#F0A070"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -596,7 +596,7 @@
         "entity.name.tag.doctype"
       ],
       "settings": {
-        "foreground": "#6272A4"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -606,7 +606,7 @@
         "entity.other.attribute-name.id.html"
       ],
       "settings": {
-        "foreground": "#FFB86C"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -616,7 +616,7 @@
         "entity.other.attribute-name.class.html"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -626,7 +626,7 @@
         "meta.selector"
       ],
       "settings": {
-        "foreground": "#50FA7B"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -636,7 +636,7 @@
         "meta.selector entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#FFB86C"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -646,7 +646,7 @@
         "meta.selector entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -656,7 +656,7 @@
         "entity.other.attribute-name.pseudo-element"
       ],
       "settings": {
-        "foreground": "#FF79C6"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -667,7 +667,7 @@
         "meta.property-name"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -677,7 +677,7 @@
         "meta.property-value"
       ],
       "settings": {
-        "foreground": "#F0A070"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -686,7 +686,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#50FA7B"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -696,7 +696,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#FFD580"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -709,7 +709,7 @@
         "variable.sass"
       ],
       "settings": {
-        "foreground": "#BD93F9"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -719,7 +719,7 @@
         "meta.at-rule keyword.control"
       ],
       "settings": {
-        "foreground": "#FF79C6"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -728,7 +728,7 @@
         "keyword.other.important.css"
       ],
       "settings": {
-        "foreground": "#FF5555",
+        "foreground": "#CECECE",
         "fontStyle": "bold"
       }
     },
@@ -741,7 +741,7 @@
         "keyword.control.at-rule.mixin.scss"
       ],
       "settings": {
-        "foreground": "#50FA7B"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -782,7 +782,7 @@
       }
     },
     {
-      "name": "TypeScript \u2014 Type Aliases",
+      "name": "TypeScript — Type Aliases",
       "scope": [
         "entity.name.type.alias.ts",
         "entity.name.type.alias.tsx"
@@ -792,7 +792,7 @@
       }
     },
     {
-      "name": "TypeScript \u2014 Utility Types",
+      "name": "TypeScript — Utility Types",
       "scope": [
         "support.type.utility.ts"
       ],
@@ -801,7 +801,7 @@
       }
     },
     {
-      "name": "TypeScript \u2014 Generics",
+      "name": "TypeScript — Generics",
       "scope": [
         "meta.type.parameters",
         "punctuation.definition.typeparameters"
@@ -811,7 +811,7 @@
       }
     },
     {
-      "name": "JSX / TSX \u2014 React Components",
+      "name": "JSX / TSX — React Components",
       "scope": [
         "support.class.component.jsx",
         "support.class.component.tsx",
@@ -819,7 +819,7 @@
         "support.class.component.ts"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#CECECE"
       }
     },
     {
@@ -836,7 +836,7 @@
       }
     },
     {
-      "name": "Python \u2014 Docstrings",
+      "name": "Python — Docstrings",
       "scope": [
         "string.quoted.double.block.python",
         "string.quoted.single.block.python"
@@ -847,7 +847,7 @@
       }
     },
     {
-      "name": "Python \u2014 Decorators",
+      "name": "Python — Decorators",
       "scope": [
         "meta.decorator.python",
         "entity.name.function.decorator.python",
@@ -858,7 +858,7 @@
       }
     },
     {
-      "name": "Python \u2014 self / cls",
+      "name": "Python — self / cls",
       "scope": [
         "variable.language.special.self.python",
         "variable.language.special.cls.python"
@@ -869,7 +869,7 @@
       }
     },
     {
-      "name": "Python \u2014 Built-in Functions",
+      "name": "Python — Built-in Functions",
       "scope": [
         "support.function.builtin.python"
       ],
@@ -878,7 +878,7 @@
       }
     },
     {
-      "name": "Python \u2014 Built-in Types",
+      "name": "Python — Built-in Types",
       "scope": [
         "support.type.python",
         "support.class.python"
@@ -888,7 +888,7 @@
       }
     },
     {
-      "name": "Python \u2014 Type Annotations",
+      "name": "Python — Type Annotations",
       "scope": [
         "variable.annotation.python",
         "meta.function.annotation.python",
@@ -899,7 +899,7 @@
       }
     },
     {
-      "name": "Python \u2014 f-string Interpolation Braces",
+      "name": "Python — f-string Interpolation Braces",
       "scope": [
         "punctuation.section.f-expression.begin.python",
         "punctuation.section.f-expression.end.python"
@@ -909,7 +909,7 @@
       }
     },
     {
-      "name": "Python \u2014 Magic Variables",
+      "name": "Python — Magic Variables",
       "scope": [
         "support.variable.magic.python"
       ],
@@ -918,7 +918,7 @@
       }
     },
     {
-      "name": "Go \u2014 package / import Keywords",
+      "name": "Go — package / import Keywords",
       "scope": [
         "keyword.package.go",
         "keyword.import.go",
@@ -930,7 +930,7 @@
       }
     },
     {
-      "name": "Go \u2014 Package Name",
+      "name": "Go — Package Name",
       "scope": [
         "entity.name.package.go"
       ],
@@ -939,7 +939,7 @@
       }
     },
     {
-      "name": "Go \u2014 Built-in Functions",
+      "name": "Go — Built-in Functions",
       "scope": [
         "support.function.builtin.go"
       ],
@@ -948,7 +948,7 @@
       }
     },
     {
-      "name": "Go \u2014 Predeclared Types",
+      "name": "Go — Predeclared Types",
       "scope": [
         "support.type.predeclared.go",
         "support.type.builtin.go"
@@ -958,7 +958,7 @@
       }
     },
     {
-      "name": "Go \u2014 Built-in Constants",
+      "name": "Go — Built-in Constants",
       "scope": [
         "constant.language.go"
       ],
@@ -967,7 +967,7 @@
       }
     },
     {
-      "name": "Go \u2014 Raw Strings / Struct Tags",
+      "name": "Go — Raw Strings / Struct Tags",
       "scope": [
         "string.quoted.raw.go"
       ],
@@ -976,7 +976,7 @@
       }
     },
     {
-      "name": "Go \u2014 Pointer Operators",
+      "name": "Go — Pointer Operators",
       "scope": [
         "keyword.operator.address.go",
         "keyword.operator.pointer.go"
@@ -986,7 +986,7 @@
       }
     },
     {
-      "name": "JSON \u2014 Keys",
+      "name": "JSON — Keys",
       "scope": [
         "support.type.property-name.json",
         "meta.structure.dictionary.key.json string"
@@ -996,7 +996,7 @@
       }
     },
     {
-      "name": "JSON \u2014 String Values",
+      "name": "JSON — String Values",
       "scope": [
         "meta.structure.dictionary.value.json string",
         "string.quoted.double.json"
@@ -1006,7 +1006,7 @@
       }
     },
     {
-      "name": "JSON \u2014 Numbers",
+      "name": "JSON — Numbers",
       "scope": [
         "meta.structure.dictionary.value.json constant.numeric",
         "constant.numeric.json"
@@ -1016,7 +1016,7 @@
       }
     },
     {
-      "name": "JSON \u2014 Boolean & Null",
+      "name": "JSON — Boolean & Null",
       "scope": [
         "constant.language.json"
       ],
@@ -1025,7 +1025,7 @@
       }
     },
     {
-      "name": "JSON \u2014 Brackets",
+      "name": "JSON — Brackets",
       "scope": [
         "punctuation.definition.array.begin.json",
         "punctuation.definition.array.end.json",
@@ -1191,7 +1191,7 @@
       }
     },
     {
-      "name": "Shell \u2014 Commands",
+      "name": "Shell — Commands",
       "scope": [
         "support.function.builtin.shell",
         "entity.name.command.shell"
@@ -1201,7 +1201,7 @@
       }
     },
     {
-      "name": "Shell \u2014 Variables",
+      "name": "Shell — Variables",
       "scope": [
         "variable.other.normal.shell",
         "variable.other.bracket.shell",
@@ -1212,7 +1212,7 @@
       }
     },
     {
-      "name": "Shell \u2014 Flags",
+      "name": "Shell — Flags",
       "scope": [
         "string.unquoted.argument.shell"
       ],
@@ -1221,7 +1221,7 @@
       }
     },
     {
-      "name": "Shell \u2014 Shebang",
+      "name": "Shell — Shebang",
       "scope": [
         "comment.line.shebang"
       ],
@@ -1231,7 +1231,7 @@
       }
     },
     {
-      "name": "Rust \u2014 Lifetimes",
+      "name": "Rust — Lifetimes",
       "scope": [
         "entity.name.lifetime.rust",
         "storage.modifier.lifetime.rust",
@@ -1242,7 +1242,7 @@
       }
     },
     {
-      "name": "Rust \u2014 Macros",
+      "name": "Rust — Macros",
       "scope": [
         "entity.name.function.macro.rust",
         "support.function.macro.rust"
@@ -1252,7 +1252,7 @@
       }
     },
     {
-      "name": "Rust \u2014 Attributes",
+      "name": "Rust — Attributes",
       "scope": [
         "meta.attribute.rust",
         "entity.name.function.attribute.rust"
@@ -1262,7 +1262,7 @@
       }
     },
     {
-      "name": "Rust \u2014 unsafe",
+      "name": "Rust — unsafe",
       "scope": [
         "storage.modifier.unsafe.rust"
       ],
