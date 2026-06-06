@@ -36,6 +36,11 @@
         "path": "./themes/black-borderless.json"
       },
       {
+        "label": "Black Vibe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibe-black-bordered.json"
+      },
+      {
         "label": "Black Bordered Lite",
         "uiTheme": "vs-dark",
         "path": "./themes/black-bordered-lite.json"
