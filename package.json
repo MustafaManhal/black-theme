@@ -1,0 +1,71 @@
+{
+  "name": "black-theme",
+  "displayName": "Black Theme",
+  "description": "8 pure black themes with vivid colors and visible borders",
+  "version": "0.1.0",
+  "publisher": "mustafamanhal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MustafaManhall/black-theme"
+  },
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "black",
+    "dark",
+    "bordered",
+    "neon",
+    "minimal"
+  ],
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-bordered.json"
+      },
+      {
+        "label": "Black Bordered Lite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-bordered-lite.json"
+      },
+      {
+        "label": "Black Bordered High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-bordered-hc.json"
+      },
+      {
+        "label": "Black Bordered Warm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-bordered-warm.json"
+      },
+      {
+        "label": "Black Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-night.json"
+      },
+      {
+        "label": "Black Mocha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-mocha.json"
+      },
+      {
+        "label": "Black Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-neon.json"
+      },
+      {
+        "label": "Black Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-minimal.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
