@@ -80,5 +80,8 @@
   "license": "MIT",
   "devDependencies": {
     "@vscode/vsce": "^3.9.2"
+  },
+  "dependencies": {
+    "ovsx": "^1.0.0"
   }
 }
